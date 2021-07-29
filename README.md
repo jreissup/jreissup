@@ -8,7 +8,7 @@
   - Apache Kafka
   - Apache Ranger
   - Apache Spark
-  - Databses (SQL Server, Oracle)
+  - Databases (SQL Server, Oracle)
   - Docker
   - EMR
   - FastAPI (Python framework)
