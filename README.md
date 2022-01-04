@@ -1,6 +1,6 @@
 <h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <br>I'm Jonathan Reis</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jreissup" alt="jreissup" /> </p>
-<h3 align="center">Data Engineer Specialist @HypeFlame </h3>
+<h3 align="center">Data Architect @White Prompt </h3>
 
 - Skills:
   - Apache Airflow
