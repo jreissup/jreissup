@@ -1,6 +1,6 @@
-<h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <br>I'm Jonathan Reis</h1>
+<h1 align="left">Hi There! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <br>I'm Jonathan Reis</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jreissup" alt="jreissup" /> </p>
-<h3 align="center">Data Architect @White Prompt </h3>
+<h3 align="left">Data Architect @White Prompt </h3>
 
 - Skills:
   - Apache Airflow
@@ -20,13 +20,12 @@
   - S3
   - Scala
 
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jreissup&theme=radical&layout=compact" alt="jreissup"/>
-</p>
 
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=jreissup&theme=radical&show_icons=true" alt="jreissup"/> 
-</p>
+<h3 align="left">Certifications</h3>
+
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/10c4d7e6-425b-4938-ac47-8e2e7dc40e72/public_url)
+
+![AWS Certified Solutions Architect – Associate](https://s3.amazonaws.com/tekchain.com.br/assets/certification_badge/jreissup/aws-certified-solutions-architect-associate.png)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jreissup/)](https://www.linkedin.com/in/jreissup/) 
