@@ -1,23 +1,26 @@
 <h1 align="left">Hi There! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <br>I'm Jonathan Reis</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jreissup" alt="jreissup" /> </p>
-<h3 align="left">Data Architect @White Prompt </h3>
+<h3 align="left">Data Architect | Data Engineer | Data Infrastructure </h3>
+
+- ⚡ Fun fact:
+
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jreissup&count_private=true&show_icons=true" />
+</span>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jreissup)]()
 
 - Skills:
-  - Apache Airflow
-  - Apache Atlas
-  - Apache Kafka
-  - Apache Ranger
-  - Apache Spark
+  - Apache Ecosystem (Airflow, Atlas, Kafka, Ranger, Superset, Spark)
+  - AWS (Athena, DynamoDB, EC2, EMR, Event Bridge, Glue, Kinesis, ECS/Fargate, RDS, Redshift, S3, Secrets Manager, IAM)
   - Databases (SQL Server, Oracle)
   - Docker
-  - EMR
+  - ELK Stack (Elastic Search, Kibana, Logstash, Beats)
   - FastAPI (Python framework)
-  - Glue
   - Kubernetes
   - Linux
   - Pyspark
   - Python
-  - S3
   - Scala
 
 
