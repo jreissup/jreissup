@@ -12,17 +12,19 @@
 
 - Skills:
   - Apache Ecosystem (Airflow, Atlas, Kafka, Ranger, Superset, Spark)
-  - AWS (Athena, DynamoDB, EC2, EMR, Event Bridge, Glue, Kinesis, ECS/Fargate, RDS, Redshift, S3, Secrets Manager, IAM)
+  - AWS (Athena, DynamoDB, EC2, EMR, Event Bridge, Glue, Kinesis, ECS/Fargate, RDS, Redshift, S3, Secrets Manager, IAM, KMS, MSK)
   - Databases (SQL Server, Oracle)
   - Docker
   - ELK Stack (Elastic Search, Kibana, Logstash, Beats)
   - FastAPI (Python framework)
   - Kubernetes
+  - Kafka / Zookeeper / Exhibitor / CMAK / Burrow
   - Linux
   - Pyspark
   - Python
   - Scala
-
+  - Terraform
+  - Packer
 
 <h3 align="left">Certifications</h3>
 
